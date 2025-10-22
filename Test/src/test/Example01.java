@@ -1,0 +1,30 @@
+package test;
+
+public class Example01 {
+
+	public static void main(String[] args) {
+
+		/*
+		 * ----------- 출력 예시 -----------
+		 * 이름 :  - name
+		 * 나이 :  - age
+		 * 주소 :  - address
+		 * 몸무게 :  - weight
+		 */
+		
+	
+		String name = "김영준";
+		int age = 43;
+		String address = "경기도 남양주시 진업읍 내각리";
+		double weight = 80.8; 
+		
+		System.out.println("------------- 출력 -------------");
+		System.out.println("이름 : " + name);
+		System.out.println("나이 : " + age);
+		System.out.println("주소 : " + address);
+		System.out.println("몸무게 : " + weight + "kg");
+		
+		
+	}
+
+}
