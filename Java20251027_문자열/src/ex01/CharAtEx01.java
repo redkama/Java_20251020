@@ -17,7 +17,7 @@ public class CharAtEx01 {
 		
 		System.out.println("----문자열 대체(변경)-----");
 		System.out.println("before: " + subject);
-		// 문자열 대체
+		// 문자열 대체하여 새로운 문자열 생성
 		subject = subject.replace("자바", "파이썬");
 		System.out.println("after: " + subject);
 
