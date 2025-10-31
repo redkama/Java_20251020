@@ -1,0 +1,29 @@
+package ex01;
+
+// Student클래스는 Person클래스 상속
+public class Student extends Person{
+
+	// 멤버변수는 외부 노출 시키지 않는다 -> 정보은닉
+//	private String name;
+//	private int age;
+	private String school;
+	
+	//디폴트 생성자
+	Student() {
+		
+	}
+	
+	Student(String name, int age, String school){
+		super(name, age);
+//		this.name = name;
+//		this.age = age;
+		this.school = school;
+		System.out.println("new Student");
+		
+	}
+	
+	public void study() {
+		System.out.println(school + "에서 공부 중입니다.");
+	}
+	
+}

@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="ex01.Student"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="ex06.Student"/>
     <fullyQualifiedTypeName name="ex08.MemberService"/>
@@ -12,4 +11,8 @@
     <fullyQualifiedTypeName name="ex12.Account"/>
     <fullyQualifiedTypeName name="ex13.StudentMain"/>
     <fullyQualifiedTypeName name="ex13.Student"/>
+    <fullyQualifiedTypeName name="ex01.Student"/>
+    <fullyQualifiedTypeName name="ex01.Teacher"/>
+    <fullyQualifiedTypeName name="ex01.Programmer"/>
+    <fullyQualifiedTypeName name="ex01.Person"/>
 </qualifiedTypeNameHistroy>
