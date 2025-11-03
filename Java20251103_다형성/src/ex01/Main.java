@@ -1,0 +1,15 @@
+package ex01;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Student s1 = new Student("천호중학교");
+		s1.study();
+		System.out.println(s1.info()); 
+		
+		Student s2 = new Student("홍길동", 25, "천호중학교");
+		s2.study();
+		System.out.println(s2.info()); 
+	}
+}

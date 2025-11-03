@@ -11,8 +11,12 @@
     <fullyQualifiedTypeName name="ex12.Account"/>
     <fullyQualifiedTypeName name="ex13.StudentMain"/>
     <fullyQualifiedTypeName name="ex13.Student"/>
-    <fullyQualifiedTypeName name="ex01.Student"/>
     <fullyQualifiedTypeName name="ex01.Teacher"/>
     <fullyQualifiedTypeName name="ex01.Programmer"/>
     <fullyQualifiedTypeName name="ex01.Person"/>
+    <fullyQualifiedTypeName name="ex01.Student"/>
+    <fullyQualifiedTypeName name="ex02.Person"/>
+    <fullyQualifiedTypeName name="ex02.Student"/>
+    <fullyQualifiedTypeName name="ex02.Teacher"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
