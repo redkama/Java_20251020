@@ -19,4 +19,15 @@
     <fullyQualifiedTypeName name="ex02.Student"/>
     <fullyQualifiedTypeName name="ex02.Teacher"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ex02.AudioPlayer"/>
+    <fullyQualifiedTypeName name="ex02.CdPlayer"/>
+    <fullyQualifiedTypeName name="ex03.Action"/>
+    <fullyQualifiedTypeName name="ex03.Archer"/>
+    <fullyQualifiedTypeName name="ex03.Warrior"/>
+    <fullyQualifiedTypeName name="ex04.CreditCard"/>
+    <fullyQualifiedTypeName name="ex04.SamsungPay"/>
+    <fullyQualifiedTypeName name="ex05.Payment"/>
+    <fullyQualifiedTypeName name="ex05.CreditCard"/>
+    <fullyQualifiedTypeName name="ex06_1_상속.ElectricCar"/>
+    <fullyQualifiedTypeName name="ex06_2_다형성.ElectricCar"/>
 </qualifiedTypeNameHistroy>
